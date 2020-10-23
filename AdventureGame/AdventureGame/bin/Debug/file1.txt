@@ -1,0 +1,4 @@
+You collected these items on your journey: 
+umbrella
+!!KEY!!
+Congratulations! You accomplished the goal! You found the key!
